@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8c87b04-ab28-4a0f-be5f-e4c036454668" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1d2SteruoEgjNHPs4LYk28nyc0l" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../02-hello-producer" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Udemy\FinalProjects\01-storage-demo\scripts" />
+      <recent name="C:\Udemy\FinalProjects\01-storage-demo\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Shell Script.describe-topic.sh">
+    <configuration name="0-kafka-server-start.sh" type="ShConfigurationType" temporary="true">
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/scripts/0-kafka-server-start.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1-kafka-server-start.sh" type="ShConfigurationType" temporary="true">
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/scripts/1-kafka-server-start.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2-kafka-server-start.sh" type="ShConfigurationType" temporary="true">
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/scripts/2-kafka-server-start.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="describe-topic.sh" type="ShConfigurationType" temporary="true">
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/scripts/describe-topic.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="topic-create.sh" type="ShConfigurationType" temporary="true">
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/scripts/topic-create.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Shell Script.describe-topic.sh" />
+        <item itemvalue="Shell Script.topic-create.sh" />
+        <item itemvalue="Shell Script.2-kafka-server-start.sh" />
+        <item itemvalue="Shell Script.1-kafka-server-start.sh" />
+        <item itemvalue="Shell Script.0-kafka-server-start.sh" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8c87b04-ab28-4a0f-be5f-e4c036454668" name="Default Changelist" comment="" />
+      <created>1562574922614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562574922614</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.configurationType" implementationName="BatchConfigurationType" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="120" width="802" height="677" key="#Notifications" timestamp="1591625750724">
+      <screen x="0" y="0" width="1920" height="914" />
+    </state>
+    <state x="555" y="120" width="802" height="677" key="#Notifications/0.0.1920.914@0.0.1920.914" timestamp="1591625750724" />
+    <state x="743" y="216" width="737" height="484" key="FileChooserDialogImpl" timestamp="1592242600658">
+      <screen x="0" y="0" width="1920" height="914" />
+    </state>
+    <state x="743" y="216" width="737" height="484" key="FileChooserDialogImpl/0.0.1920.914@0.0.1920.914" timestamp="1592242600658" />
+    <state x="443" y="36" width="1026" height="845" key="SettingsEditor" timestamp="1591635205931">
+      <screen x="0" y="0" width="1920" height="914" />
+    </state>
+    <state x="443" y="36" width="1026" height="845" key="SettingsEditor/0.0.1920.914@0.0.1920.914" timestamp="1591635205931" />
+    <state x="616" y="286" key="com.intellij.ide.util.TipDialog" timestamp="1592242028389">
+      <screen x="0" y="0" width="1920" height="914" />
+    </state>
+    <state x="616" y="286" key="com.intellij.ide.util.TipDialog/0.0.1920.914@0.0.1920.914" timestamp="1592242028389" />
+  </component>
+</project>
