@@ -72,7 +72,7 @@ public class AppSerdes extends Serdes {
         }
     }
 
-    static Serde<HadoopRecord> HadoopRecord() {
+    public static Serde<HadoopRecord> HadoopRecord() {
         HadoopRecordSerde serde = new HadoopRecordSerde();
 
         Map<String, Object> serdeConfigs = new HashMap<>();
