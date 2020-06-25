@@ -1,0 +1,8 @@
+/home/vagrant/Downloads/kafkacourse/first-state-store/src/main/java/serde/JsonSerializer.java
+/home/vagrant/Downloads/kafkacourse/first-state-store/src/main/java/AppConfigs.java
+/home/vagrant/Downloads/kafkacourse/first-state-store/src/main/java/guru/learningjournal/kafka/examples/types/PosInvoice.java
+/home/vagrant/Downloads/kafkacourse/first-state-store/src/main/java/serde/JsonDeserializer.java
+/home/vagrant/Downloads/kafkacourse/first-state-store/src/main/java/serde/AppSerdes.java
+/home/vagrant/Downloads/kafkacourse/first-state-store/src/main/java/guru/learningjournal/kafka/examples/types/Notification.java
+/home/vagrant/Downloads/kafkacourse/first-state-store/src/main/java/guru/learningjournal/kafka/examples/types/DeliveryAddress.java
+/home/vagrant/Downloads/kafkacourse/first-state-store/src/main/java/guru/learningjournal/kafka/examples/types/LineItem.java

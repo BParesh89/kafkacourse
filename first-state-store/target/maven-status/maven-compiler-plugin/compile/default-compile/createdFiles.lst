@@ -1,0 +1,10 @@
+guru/learningjournal/kafka/examples/types/PosInvoice.class
+guru/learningjournal/kafka/examples/types/Notification.class
+guru/learningjournal/kafka/examples/types/LineItem.class
+serde/JsonDeserializer.class
+serde/AppSerdes$NotificationSerde.class
+serde/AppSerdes$PosInvoiceSerde.class
+guru/learningjournal/kafka/examples/types/DeliveryAddress.class
+serde/JsonSerializer.class
+serde/AppSerdes.class
+AppConfigs.class
